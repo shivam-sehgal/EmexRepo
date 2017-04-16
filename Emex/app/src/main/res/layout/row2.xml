@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="80dp">
+    <ImageButton
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:id="@+id/row2_imgbtn"
+        android:layout_marginLeft="5dp"
+        />
+    <TextView
+        android:layout_width="160.5dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="10dp"
+        android:id="@+id/row2_tv"
+        android:layout_gravity="center"/>
+</LinearLayout>

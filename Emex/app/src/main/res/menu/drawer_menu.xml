@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/network"
+        android:title="Network Views"
+        android:icon="@drawable/icon_networks"
+        android:checked="false"></item>
+    <item android:id="@+id/payment"
+        android:title="Payments"
+        android:icon="@drawable/icon_payment_normal"
+        android:checked="false"></item>
+    <item android:id="@+id/job_history"
+        android:title="Job History"
+        android:icon="@drawable/icon_job_normal"
+        android:checked="false"></item>
+    <item android:id="@+id/help"
+        android:title="Help"
+        android:icon="@drawable/icon_help_normal"
+        android:checked="false"></item>
+    <item android:id="@+id/logout"
+        android:title="Logout"
+        android:icon="@drawable/icon_logout_normal"
+        android:checked="false"></item>
+    <item android:id="@+id/text_in_menu"
+        android:title="Support via call/email"
+        android:checked="false"></item>
+    <item android:id="@+id/image_in_menu"
+        android:icon="@drawable/icon_support_call_normal"
+        android:checked="false"></item>
+</menu>
